@@ -3,10 +3,10 @@ library(tidyverse) #providing tools for data manipulation, visualization, and an
 library(GEOquery) #for accessing and retrieving data from the Gene Expression Omnibus (GEO) database.
 
 #fetch current dir
-getwd() #currently it is "C:/Users/Nikita Maurya/OneDrive/Documents"
+getwd() #currently it is "C:/Users/amgoth suresh"
 
 #changing directory
-setwd("C:/Users/Nikita Maurya/OneDrive/Desktop/Nikita/Rfiles")
+setwd("C:/Users/amgoth suresh/Cancer project")
 
 #after manually downloading the data from NCBI GEO database
 #I have loaded the data
